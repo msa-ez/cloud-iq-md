@@ -1,4 +1,4 @@
-# 데이터관점수준: Scheme per Service
+# 데이터수준: Scheme per Service
 
 
 ## 원칙

@@ -1,4 +1,4 @@
-# 데이터관점수준: DBMS per Service
+# 데이터수준: DBMS per Service
 
 
 ## 원칙

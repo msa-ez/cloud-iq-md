@@ -1,4 +1,4 @@
-# 데이터관점수준: Event-Driven Architecture
+# 데이터수준: Event-Driven Architecture
 
 
 ## 원칙

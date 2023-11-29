@@ -1,11 +1,12 @@
-# 기능분해수준: 도메인 컨텍스트 기반 분리
+# 기능분해수준: 기능과 유즈케이스 단위로 분리
 
 
 ## 원칙
-- Ubiquitous language 가 다른 bounded context간의 커뮤니케이션 시, Anti-corruption layer를 통해 수행
-- Ubiquitous language 정의: 각 bounded context에서 사용될 공통 언어와 용어를 정의하고 이를 문서화함
-- Boundary 정의: 각 bounded context의 경계를 명확하게 정의하고 외부에서의 커뮤니케이션 방식을 결정
-- Anti-corruption layer 구현: bounded context 간의 통신을 관리하기 위해 Anti-corruption layer를 구현하고 외부 인터페이스 변환 및 데이터 변환을 수행
+- 비즈니스 역량 도출: 비즈니스 도메인을 분석하여 주요 기능과 유즈케이스를 도출
+- 기능 정의: 각 기능을 명확하게 정의하고 해당 기능의 범위를 결정
+- 유즈케이스 식별: 각 기능에 대한 유즈케이스를 식별하고 이를 단위로 분리
+- 의존성 분석: 각 기능과 유즈케이스 간의 의존성을 분석하여 적절한 분리 수준을 결정
+
 
 
 ## 전환가이드

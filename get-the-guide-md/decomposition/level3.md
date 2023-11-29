@@ -1,13 +1,14 @@
 # 기능분해수준: 도메인 컨텍스트 기반 분리
 
+
 ## 원칙
 - Ubiquitous language 가 다른 bounded context간의 커뮤니케이션 시, Anti-corruption layer를 통해 수행
 - Ubiquitous language 정의: 각 bounded context에서 사용될 공통 언어와 용어를 정의하고 이를 문서화함
 - Boundary 정의: 각 bounded context의 경계를 명확하게 정의하고 외부에서의 커뮤니케이션 방식을 결정
 - Anti-corruption layer 구현: bounded context 간의 통신을 관리하기 위해 Anti-corruption layer를 구현하고 외부 인터페이스 변환 및 데이터 변환을 수행
 
+
 ## 전환가이드
-## 도메인 주도 설계
 
 소프트웨어의 개발이 어려운 이유는 업무의 복잡성에서 시작됩니다. 개발자가 소프트웨어를 **구현하는 복잡성**보다 소프트웨어로 구현하고자 하는 **기능(업무)에 대한 복잡성**이 더 큽니다.
 

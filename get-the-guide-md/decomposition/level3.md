@@ -98,7 +98,8 @@ SW 도메인과 건축 도메인에서도 동일한 용어지만 두 도메인 �
 의사소통은 물론, 이벤트스토밍, 도메인 모델링, 프로그램 개발에 이르기까지 일관된 용어로 소통, 문서작성 뿐만 아니라 코드개발까지 일관된 언어가 사용되어야 바운디드 컨텍스트의 경계가 견실하게 유지될 수 있는 것입니다.
 
 ## 교육자료
-
+1. [교육자료](https://www.msaschool.io/operation/design/design-two/)https://www.msaschool.io/operation/design/design-two/
+2. [실습자료](https://labs.msaez.io/#/courses/cna-full/public-full-2022-hw/#ddd-google-drive)https://labs.msaez.io/#/courses/cna-full/public-full-2022-hw/#ddd-google-drive
 
 ## 참조 아키텍처
 

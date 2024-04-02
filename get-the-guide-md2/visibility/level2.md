@@ -57,3 +57,7 @@
 - **보안 강화 및 지속적인 리뷰**: 시스템의 보안을 강화하고, 보안 상태를 지속적으로 리뷰하여 잠재적인 위험을 관리합니다.
 
 > **요약:** 전환 후 운영 최적화 단계에서는 시스템의 지속적인 모니터링 및 개선, 새로운 요구사항에 대한 대응, 안정성 및 성능 모니터링, 보안 강화 등을 통해 시스템의 전반적인 성능과 안정성을 유지하고 개선합니다.
+
+### References :
+- Microsevice Telemetry - https://www.msaschool.io/operation/architecture/architecture-five/
+- GCP기반 마이크로서비스 모니터링 - https://www.msaschool.io/operation/operation/operation-six/

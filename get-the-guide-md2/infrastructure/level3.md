@@ -46,3 +46,9 @@
 
 > **요약:** 전환 후 운영 최적화 단계는 클라우드 환경에서의 지속 가능한 운영을 위해 성능 모니터링, 비용 관리, 보안 및 컴
 
+### References :
+- 쿠버네티스 아키텍처(Kubernetes Architecture) - https://www.msaschool.io/operation/operation/operation-four/
+- 컨테이너 기반 마이크로서비스 구성 - https://www.msaschool.io/operation/architecture/architecture-three/
+- Service Mesh를 통한 애플리케이션 기반 인프라 구성 - https://www.msaschool.io/operation/architecture/architecture-two/
+- Istio Service Mesh기반 서비스 배포 - https://intro-kor.msaez.io/operation/ops-deploy-diagramming-advanced-istio/
+- 지속적인 통합 및 지속적인 배포 - https://www.msaschool.io/operation/deployment/deployment-one/

@@ -49,3 +49,11 @@
 - **비용 관리 및 최적화**: 클라우드 리소스 사용에 대한 지속적인 모니터링을 통해 비용을 효과적으로 관리합니다. 사용하지 않는 리소스의 정리, 리소스 크기 조정, 예약 인스턴스 및 스팟 인스턴스 사용 등을 통해 비용을 최적화합니다.
 
 > **요약 :** 전환 후 운영 최적화 단계에서는 클라우드 네이티브 환경에서의 지속 가능한 운영을 위해 모니터링 및 성능 분석, 운영 자동화, 보안 강화, 그리고 비용 관리 및 최적화 등의 활동을 수행합니다. 이 단계는 클라우드 환경의 장점을 최대한 활용하면서, 안정적이고 비용 효율적인 시스템 운영을 위한 기반을 마련합니다.
+
+
+### References :
+- 쿠버네티스 아키텍처(Kubernetes Architecture) - https://www.msaschool.io/operation/operation/operation-four/
+- 컨테이너 기반 마이크로서비스 구성 - https://www.msaschool.io/operation/architecture/architecture-three/
+- Service Mesh를 통한 애플리케이션 기반 인프라 구성 - https://www.msaschool.io/operation/architecture/architecture-two/
+- Istio Service Mesh기반 서비스 배포 - https://intro-kor.msaez.io/operation/ops-deploy-diagramming-advanced-istio/
+- 지속적인 통합 및 지속적인 배포 - https://www.msaschool.io/operation/deployment/deployment-one/

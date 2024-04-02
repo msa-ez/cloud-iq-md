@@ -47,3 +47,12 @@
 - **보안 강화 및 규정 준수**: 새로운 아키텍처와 기술 스택 도입으로 변경된 보안 요구 사항을 충족하기 위해 보안 정책과 절차를 재검토하고 강화합니다. 데이터 암호화, 접근 제어, 보안 취약점 관리 등을 포함하여, 전체 시스템의 보안 수준을 지속적으로 개선합니다. 또한, 관련 법률 및 규정 준수 사항을 확인하고 준수합니다.
 
 > **요약 :** 전환 후 운영 최적화 단계에서는 시스템의 성능 모니터링 및 최적화, 데이터 일관성 및 무결성 관리, 운영 프로세스의 자동화 및 인프라 관리, 그리고 보안 강화 및 규정 준수를 통해 새로운 아키텍처에서의 안정적이고 효율적인 운영을 지원합니다. 이 단계는 시스템의 지속 가능한 성장과 변화에 유연하게 대응할 수 있는 기반을 마련합니다.
+
+### References :
+- 분산 환경에서의 최종 일관성(Eventual Transaction) 유지 - https://www.msaschool.io/operation/integration/integration-four/
+- MSA 환경에서의 데이터 프로젝션(Data Projection) 기법 - https://www.msaschool.io/operation/integration/integration-five/
+- Front-end에서의 데이터 통합 - https://www.msaschool.io/operation/integration/integration-one/
+- 동기 호출(Request/Response Communication)에 의한 데이터 통합 - https://www.msaschool.io/operation/integration/integration-two/
+- 이벤트 소싱(Event Sourcing) 기반 데이터 통합 - https://www.msaschool.io/operation/integration/integration-three/
+- 커맨트 모델과 쿼리 모델의 분리(CQRS) - https://www.msaschool.io/operation/integration/integration-six/
+- CQRS 데이터 프로잭션 - https://intro-kor.msaez.io/development/dp-cqrs/

@@ -51,3 +51,7 @@
 - **보안 교육 및 인식 제고**: 사용자와 관리자를 대상으로 보안 인식 교육을 지속적으로 제공합니다.
 
 > **요약:** 새로운 보안 시스템의 효과적인 운영과 지속적인 개선을 위한 활동을 수행합니다.
+
+### References :
+- 마이크로서비스 보안 설계 - https://www.msaschool.io/operation/design/design-seven/
+- JWT Token기반 인증/인가 예제 - https://intro-kor.msaez.io/development/oauth2with-keycloak/

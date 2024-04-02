@@ -58,3 +58,7 @@
 - **기술적 변화와 트렌드에 대한 지속적인 적응**: 새로운 기술적 변화와 트렌드에 대응하여 시스템을 지속적으로 업데이트하고 개선합니다.
 
 > **요약:** 전환 후 운영 최적화 단계에서는 지속적인 모니터링, 예측 분석 개선, 통합 인사이트 활용, 자동화 및 대응 메커니즘 강화를 통해 시스템의 전반적인 성능과 안정성을 유지하고 개선합니다.
+
+### References :
+- Microsevice Telemetry - https://www.msaschool.io/operation/architecture/architecture-five/
+- GCP기반 마이크로서비스 모니터링 - https://www.msaschool.io/operation/operation/operation-six/

@@ -48,3 +48,13 @@
 
 > **요약 :** 전환 후 운영 최적화 단계에서는 클라우드 네이티브 환경에서의 지속적인 운영과 관리를 위한 최적화 작업을 수행합니다. 이 단계는 시스템 모니터링, 자동화, 그리고 비용 관리를 포함합니다. 목표는 시스템의 안정적인 운영과 비용 효율성의 지속적인 개선입니다.
 
+
+### References : 
+- 이벤트스토밍, 서비스 디컴포지션 (Service Decomposition) - https://www.msaschool.io/operation/design/design-three/
+- 이벤트스토밍 HowTo - https://intro-kor.msaez.io/business/
+- 애플리케이션 아키텍처 설계 - https://www.msaschool.io/operation/design/design-five/    
+- 프론트-엔드 설계 - https://www.msaschool.io/operation/design/design-eight/      
+- 게이트웨이(Gateway)를 통한 애플리케이션 창구 단일화 - https://www.msaschool.io/operation/implementation/implementation-six/
+- 이벤트기반 메시지 채널, 카프카(Kafka) 활용 - https://www.msaschool.io/operation/implementation/implementation-seven/
+- MSA 성숙도 모델에 따른 구현 관점별 적용 레벨 - https://www.msaschool.io/operation/planning/planning/
+

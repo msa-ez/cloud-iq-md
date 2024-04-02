@@ -57,3 +57,7 @@
 - **기술 진화에 따른 시스템 업데이트**: 새로운 기술 도입이나 관측성 트렌드 변화에 따라 시스템을 지속적으로 업데이트하고 개선합니다.
 
 > **요약:** 전환 후 운영 최적화 단계에서는 구축된 시스템을 통해 지속적인 모니터링과 성능 최적화, 보안 감사를 수행하며, 시스템을 지속적으로 업데이트하여 최신 상태로 유지합니다.
+
+### References :
+- Microsevice Telemetry - https://www.msaschool.io/operation/architecture/architecture-five/
+- GCP기반 마이크로서비스 모니터링 - https://www.msaschool.io/operation/operation/operation-six/

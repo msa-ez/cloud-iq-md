@@ -45,10 +45,10 @@
 > **요약 :** 전환 후 운영 최적화 단계에서는 클라우드 환경에서의 운영 효율성을 높이고, 성능 및 비용 최적화를 위한 지속적인 관리와 개선 활동을 수행합니다. 이를 통해 시스템의 안정성, 보안, 비용 효율성을 보장합니다.
 
 ### References:
-- <a href="https://www.msaschool.io/operation/design/design-three/" target="_blank">이벤트스토밍, 서비스 디컴포지션 (Service Decomposition)</a>
-- <a href="https://intro-kor.msaez.io/business/" target="_blank">이벤트스토밍 HowTo</a>
-- <a href="https://www.msaschool.io/operation/design/design-five/" target="_blank">애플리케이션 아키텍처 설계</a>
-- <a href="https://www.msaschool.io/operation/design/design-eight/" target="_blank">프론트-엔드 설계</a>
-- <a href="https://www.msaschool.io/operation/implementation/implementation-six/" target="_blank">게이트웨이(Gateway)를 통한 애플리케이션 창구 단일화</a>
-- <a href="https://www.msaschool.io/operation/implementation/implementation-seven/" target="_blank">이벤트기반 메시지 채널, 카프카(Kafka) 활용</a>
-- <a href="https://www.msaschool.io/operation/planning/planning/" target="_blank">MSA 성숙도 모델에 따른 구현 관점별 적용 레벨</a>
+- 이벤트스토밍, 서비스 디컴포지션 (Service Decomposition) : <a href="https://www.msaschool.io/operation/design/design-three/" target="_blank"> https://www.msaschool.io/operation/design/design-three/</a>
+- 이벤트스토밍 HowTo : <a href="https://intro-kor.msaez.io/business/" target="_blank">https://intro-kor.msaez.io/business/</a>
+- 애플리케이션 아키텍처 설계 : <a href="https://www.msaschool.io/operation/design/design-five/" target="_blank">https://www.msaschool.io/operation/design/design-five/</a>
+- 프론트-엔드 설계 : <a href="https://www.msaschool.io/operation/design/design-eight/" target="_blank">https://www.msaschool.io/operation/design/design-eight/</a>
+- 게이트웨이(Gateway)를 통한 애플리케이션 창구 단일화 : <a href="https://www.msaschool.io/operation/implementation/implementation-six/" target="_blank">https://www.msaschool.io/operation/implementation/implementation-six/</a>
+- 이벤트기반 메시지 채널, 카프카(Kafka) 활용 : <a href="https://www.msaschool.io/operation/implementation/implementation-seven/" target="_blank">https://www.msaschool.io/operation/implementation/implementation-seven/</a>
+- MSA 성숙도 모델에 따른 구현 관점별 적용 레벨 : <a href="https://www.msaschool.io/operation/planning/planning/" target="_blank">https://www.msaschool.io/operation/planning/planning/</a>

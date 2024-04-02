@@ -59,5 +59,5 @@
 > **요약**: 전환 후 운영 최적화 단계에서는 시스템의 성능 모니터링, 비용 관리, 보안 유지, 그리고 시장 변화에 대응하여 지속적으로 시스템을 최적화합니다.
 
 ### References:
-- <a href="https://intro-kor.msaez.io/operation/ops-deploy-diagramming-advanced-hpa/" target="_blank">마이크로서비스 자동확장</a>
-- <a href="https://www.msaschool.io/operation/operation/operation-four/" target="_blank">쿠버네티스 아키텍처(Kubernetes Architecture)</a>
+- 마이크로서비스 자동확장 : <a href="https://intro-kor.msaez.io/operation/ops-deploy-diagramming-advanced-hpa/" target="_blank">https://intro-kor.msaez.io/operation/ops-deploy-diagramming-advanced-hpa/</a>
+- 쿠버네티스 아키텍처(Kubernetes Architecture) : <a href="https://www.msaschool.io/operation/operation/operation-four/" target="_blank">https://www.msaschool.io/operation/operation/operation-four/</a>

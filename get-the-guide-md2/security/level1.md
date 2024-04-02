@@ -59,5 +59,5 @@
 > **요약:** 시스템의 보안 상태를 지속적으로 모니터링하고, 정기적인 보안 리뷰 및 감사를 통해 보안 체계를 최적화하고 개선합니다.
 
 ### References:
-- <a href="https://www.msaschool.io/operation/design/design-seven/" target="_blank">마이크로서비스 보안 설계</a>
-- <a href="https://intro-kor.msaez.io/development/oauth2with-keycloak/" target="_blank">JWT Token기반 인증/인가 예제</a>
+- 마이크로서비스 보안 설계 : <a href="https://www.msaschool.io/operation/design/design-seven/" target="_blank">https://www.msaschool.io/operation/design/design-seven/</a>
+- JWT Token기반 인증/인가 예제 : <a href="https://intro-kor.msaez.io/development/oauth2with-keycloak/" target="_blank">https://intro-kor.msaez.io/development/oauth2with-keycloak/</a>

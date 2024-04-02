@@ -53,5 +53,6 @@
 > **요약**: 업그레이드된 시스템의 운영을 최적화하고, 지속적인 성능 개선 및 보안 강화 조치를 실행합니다.
 
 ### References:
-- <a href="https://intro-kor.msaez.io/operation/ops-deploy-diagramming-advanced-hpa/" target="_blank">마이크로서비스 자동확장</a>
-- <a href="https://www.msaschool.io/operation/operation/operation-four/" target="_blank">쿠버네티스 아키텍처(Kubernetes Architecture)</a>
+- 마이크로서비스 자동확장 : <a href="https://intro-kor.msaez.io/operation/ops-deploy-diagramming-advanced-hpa/" target="_blank">https://intro-kor.msaez.io/operation/ops-deploy-diagramming-advanced-hpa/</a>
+- 쿠버네티스 아키텍처(Kubernetes Architecture) : <a href="https://www.msaschool.io/operation/operation/operation-four/" target="_blank">https://www.msaschool.io/operation/operation/operation-four/</a>
+

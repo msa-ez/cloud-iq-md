@@ -58,10 +58,11 @@
 > **요약:** 전환 후 운영 최적화 단계에서 조직은 Agile 방법론을 근간으로 하여, 운영 프로세스를 지속적으로 모니터링하고 최적화합니다. 이 과정은 성능과 효율성을 극대화하고, 조직의 Agile 실천을 심화시키며, 기술적 혁신을 지속적으로 추구함으로써, 비즈니스 가치를 지속적으로 창출해 나가는 데 중점을 둡니다. 조직은 피드백을 활발히 수집하고 반영함으로써 사용자와 시장의 요구에 민첩하게 대응할 수 있으며, Agile 문화를 조직 내에 깊이 뿌리내림으로써 팀의 협업과 혁신 능력을 강화합니다. 또한, 최신 Agile 방법론, 도구, 기술에 대한 지속적인 교육과 적용을 통해 개발 프로세스와 제품 품질을 지속적으로 향상시킬 수 있습니다.
 
 ### References:
-- <a href="https://www.msaschool.io/operation/planning/avatar-patten/" target="_blank">마이크로서비스 구현 패턴(Microservices Implementation pattern)</a>
-- <a href="https://www.msaschool.io/operation/planning/avatar-patten/" target="_blank">Request/ Response 방식의 서비스 연계</a>
-- <a href="https://intro-kor.msaez.io/development/pub-sub/" target="_blank">Publish/ Subscribe 방식의 서비스 연계</a>
-- <a href="https://www.msaschool.io/operation/design/design-eight/" target="_blank">프론트-엔드 설계</a>
-- <a href="https://intro-kor.msaez.io/development/choreography-saga/" target="_blank">Orchestration SAGA 기반 마이크로서비스 호출</a>
-- <a href="https://www.msaschool.io/operation/planning/planning/" target="_blank">MSA 성숙도 레벨에 따른 구현 관점별 적용 모델</a>
-- <a href="https://intro-kor.msaez.io/custom-template/unit-test/" target="_blank">단위 마이크로서비스 테스트 자동화</a>
+- 마이크로서비스 구현 패턴(Microservices Implementation pattern) : <a href="https://www.msaschool.io/operation/planning/avatar-patten/" target="_blank">https://www.msaschool.io/operation/planning/avatar-patten/</a>
+- Request/ Response 방식의 서비스 연계 : <a href="https://www.msaschool.io/operation/planning/avatar-patten/" target="_blank">https://www.msaschool.io/operation/planning/avatar-patten/</a>
+- Publish/ Subscribe 방식의 서비스 연계 : <a href="https://intro-kor.msaez.io/development/pub-sub/" target="_blank">https://intro-kor.msaez.io/development/pub-sub/</a>
+- 프론트-엔드 설계 : <a href="https://www.msaschool.io/operation/design/design-eight/" target="_blank">https://www.msaschool.io/operation/design/design-eight/</a>
+- Orchestration SAGA 기반 마이크로서비스 호출 : <a href="https://intro-kor.msaez.io/development/choreography-saga/" target="_blank">https://intro-kor.msaez.io/development/choreography-saga/</a>
+- MSA 성숙도 레벨에 따른 구현 관점별 적용 모델 : <a href="https://www.msaschool.io/operation/planning/planning/" target="_blank">https://www.msaschool.io/operation/planning/planning/</a>
+- 단위 마이크로서비스 테스트 자동화 : <a href="https://intro-kor.msaez.io/custom-template/unit-test/" target="_blank">https://intro-kor.msaez.io/custom-template/unit-test/</a>
+

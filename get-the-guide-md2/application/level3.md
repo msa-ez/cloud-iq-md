@@ -52,10 +52,10 @@
 > **요약 :** 전환 후 운영 최적화 단계에서는 시스템의 안정성을 유지하고 비용 효율성을 개선하기 위한 다양한 조치를 취합니다. 모니터링 및 로깅, 자동 스케일링, 비용 최적화, 보안 강화, 그리고 CI/CD 파이프라인의 최적화가 핵심 활동입니다. 이 단계는 시스템을 지속적으로 개선하고, 비즈니스 목표 달성을 지원하기 위한 노력을 포함합니다.
 
 ### References:
-- <a href="https://www.msaschool.io/operation/design/design-three/" target="_blank">이벤트스토밍, 서비스 디컴포지션 (Service Decomposition)</a>
-- <a href="https://intro-kor.msaez.io/business/" target="_blank">이벤트스토밍 HowTo</a>
-- <a href="https://www.msaschool.io/operation/design/design-five/" target="_blank">애플리케이션 아키텍처 설계</a>
-- <a href="https://www.msaschool.io/operation/design/design-eight/" target="_blank">프론트-엔드 설계</a>
-- <a href="https://www.msaschool.io/operation/implementation/implementation-six/" target="_blank">게이트웨이(Gateway)를 통한 애플리케이션 창구 단일화</a>
-- <a href="https://www.msaschool.io/operation/implementation/implementation-seven/" target="_blank">이벤트기반 메시지 채널, 카프카(Kafka) 활용</a>
-- <a href="https://www.msaschool.io/operation/planning/planning/" target="_blank">MSA 성숙도 모델에 따른 구현 관점별 적용 레벨</a>
+- 이벤트스토밍, 서비스 디컴포지션 (Service Decomposition) : <a href="https://www.msaschool.io/operation/design/design-three/" target="_blank"> https://www.msaschool.io/operation/design/design-three/</a>
+- 이벤트스토밍 HowTo : <a href="https://intro-kor.msaez.io/business/" target="_blank">https://intro-kor.msaez.io/business/</a>
+- 애플리케이션 아키텍처 설계 : <a href="https://www.msaschool.io/operation/design/design-five/" target="_blank">https://www.msaschool.io/operation/design/design-five/</a>
+- 프론트-엔드 설계 : <a href="https://www.msaschool.io/operation/design/design-eight/" target="_blank">https://www.msaschool.io/operation/design/design-eight/</a>
+- 게이트웨이(Gateway)를 통한 애플리케이션 창구 단일화 : <a href="https://www.msaschool.io/operation/implementation/implementation-six/" target="_blank">https://www.msaschool.io/operation/implementation/implementation-six/</a>
+- 이벤트기반 메시지 채널, 카프카(Kafka) 활용 : <a href="https://www.msaschool.io/operation/implementation/implementation-seven/" target="_blank">https://www.msaschool.io/operation/implementation/implementation-seven/</a>
+- MSA 성숙도 모델에 따른 구현 관점별 적용 레벨 : <a href="https://www.msaschool.io/operation/planning/planning/" target="_blank">https://www.msaschool.io/operation/planning/planning/</a>

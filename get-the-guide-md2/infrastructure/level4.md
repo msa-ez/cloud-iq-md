@@ -60,9 +60,10 @@
 > **요약:** 전환 후 운영 최적화 단계에서는 멀티클라우드 및 하이브리드 클라우드 환경에서의 지속적인 모니터링, 성능 및 비용 최적화, 보안 및 컴플라이언스 관리, 그리고 기술 혁신을 추구합니다. 이 과정은 클라우드 환경의 지속 가능한 운영과 지속적인 개선을 목표로 합니다.
 
 ### References:
-- <a href="https://www.msaschool.io/operation/operation/operation-four/" target="_blank">쿠버네티스 아키텍처(Kubernetes Architecture)</a>
-- <a href="https://www.msaschool.io/operation/architecture/architecture-three/" target="_blank">컨테이너 기반 마이크로서비스 구성</a>
-- <a href="https://www.msaschool.io/operation/architecture/architecture-two/" target="_blank">Service Mesh를 통한 애플리케이션 기반 인프라 구성</a>
-- <a href="https://intro-kor.msaez.io/operation/ops-deploy-diagramming-advanced-istio/" target="_blank">Istio Service Mesh기반 서비스 배포</a>
-- <a href="https://www.msaschool.io/operation/deployment/deployment-one/" target="_blank">지속적인 통합 및 지속적인 배포</a>
+- 쿠버네티스 아키텍처(Kubernetes Architecture) : <a href="https://www.msaschool.io/operation/operation/operation-four/" target="_blank">https://www.msaschool.io/operation/operation/operation-four/</a>
+- 컨테이너 기반 마이크로서비스 구성 : <a href="https://www.msaschool.io/operation/architecture/architecture-three/" target="_blank">https://www.msaschool.io/operation/architecture/architecture-three/</a>
+- Service Mesh를 통한 애플리케이션 기반 인프라 구성 : <a href="https://www.msaschool.io/operation/architecture/architecture-two/" target="_blank">https://www.msaschool.io/operation/architecture/architecture-two/</a>
+- Istio Service Mesh기반 서비스 배포 : <a href="https://intro-kor.msaez.io/operation/ops-deploy-diagramming-advanced-istio/" target="_blank">https://intro-kor.msaez.io/operation/ops-deploy-diagramming-advanced-istio/</a>
+- 지속적인 통합 및 지속적인 배포 : <a href="https://www.msaschool.io/operation/deployment/deployment-one/" target="_blank">https://www.msaschool.io/operation/deployment/deployment-one/</a>
+
 

@@ -60,5 +60,6 @@
 > **요약:** 전환 후 운영 최적화 단계에서는 지속적인 모니터링, 예측 분석 개선, 통합 인사이트 활용, 자동화 및 대응 메커니즘 강화를 통해 시스템의 전반적인 성능과 안정성을 유지하고 개선합니다.
 
 ### References:
-- <a href="https://www.msaschool.io/operation/architecture/architecture-five/" target="_blank">Microservice Telemetry</a>
-- <a href="https://www.msaschool.io/operation/operation/operation-six/" target="_blank">GCP기반 마이크로서비스 모니터링</a>
+- Microservice Telemetry : <a href="https://www.msaschool.io/operation/architecture/architecture-five/" target="_blank">https://www.msaschool.io/operation/architecture/architecture-five/</a>
+- GCP기반 마이크로서비스 모니터링 : <a href="https://www.msaschool.io/operation/operation/operation-six/" target="_blank">https://www.msaschool.io/operation/operation/operation-six/</a>
+

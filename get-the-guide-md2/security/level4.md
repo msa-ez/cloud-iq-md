@@ -53,5 +53,5 @@
 > **요약:** 새로운 보안 시스템의 효과적인 운영과 지속적인 개선을 위한 활동을 수행합니다.
 
 ### References:
-- <a href="https://www.msaschool.io/operation/design/design-seven/" target="_blank">마이크로서비스 보안 설계</a>
-- <a href="https://intro-kor.msaez.io/development/oauth2with-keycloak/" target="_blank">JWT Token기반 인증/인가 예제</a>
+- 마이크로서비스 보안 설계 : <a href="https://www.msaschool.io/operation/design/design-seven/" target="_blank">https://www.msaschool.io/operation/design/design-seven/</a>
+- JWT Token기반 인증/인가 예제 : <a href="https://intro-kor.msaez.io/development/oauth2with-keycloak/" target="_blank">https://intro-kor.msaez.io/development/oauth2with-keycloak/</a>

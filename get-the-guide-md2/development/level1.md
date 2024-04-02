@@ -59,12 +59,13 @@
 
 > **요약:** 전환 후 운영 최적화(Operate Optimize) 단계에서는 성능 모니터링, 비용 최적화, 보안 감사, 기술 변화 대응, 피드백 루프 구축, 그리고 재난 복구 및 비즈니스 연속성 계획의 최신화를 통해, 클라우드 네이티브 환경에서의 지속적인 운영 효율성과 안정성을 확보합니다. 이 단계는 조직이 클라우드 네이티브 환경에서 빠르게 변화하는 기술과 비즈니스 요구에 능동적으로 대응할 수 있도록 지원합니다.
 
-### References :
-- 마이크로서비스 구현 패턴(Microservices Implementation pattern) - https://www.msaschool.io/operation/planning/avatar-patten/
-- Request/ Response 방식의 서비스 연계 - https://www.msaschool.io/operation/planning/avatar-patten/
-- Publish/ Subscribe 방식의 서비스 연계 - https://intro-kor.msaez.io/development/pub-sub/
-- 프론트-엔드 설계 - https://www.msaschool.io/operation/design/design-eight/  
-- Orchestration SAGA 기반 마이크로서비스 호출 - https://intro-kor.msaez.io/development/choreography-saga/
-- MSA 성숙도 레벨에 따른 구현 관점별 적용 모델 - https://www.msaschool.io/operation/planning/planning/
-- 단위 마이크로서비스 테스트 자동화 - https://intro-kor.msaez.io/custom-template/unit-test/ 
+### References:
+- <a href="https://www.msaschool.io/operation/planning/avatar-patten/" target="_blank">마이크로서비스 구현 패턴(Microservices Implementation pattern)</a>
+- <a href="https://www.msaschool.io/operation/planning/avatar-patten/" target="_blank">Request/ Response 방식의 서비스 연계</a>
+- <a href="https://intro-kor.msaez.io/development/pub-sub/" target="_blank">Publish/ Subscribe 방식의 서비스 연계</a>
+- <a href="https://www.msaschool.io/operation/design/design-eight/" target="_blank">프론트-엔드 설계</a>
+- <a href="https://intro-kor.msaez.io/development/choreography-saga/" target="_blank">Orchestration SAGA 기반 마이크로서비스 호출</a>
+- <a href="https://www.msaschool.io/operation/planning/planning/" target="_blank">MSA 성숙도 레벨에 따른 구현 관점별 적용 모델</a>
+- <a href="https://intro-kor.msaez.io/custom-template/unit-test/" target="_blank">단위 마이크로서비스 테스트 자동화</a>
+
 

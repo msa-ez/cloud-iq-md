@@ -51,6 +51,6 @@
 
 > **요약:** 새로운 보안 체계의 지속적인 모니터링, 평가 및 사용자 교육을 통해 운영을 최적화합니다.
 
-### References :
-- 마이크로서비스 보안 설계 - https://www.msaschool.io/operation/design/design-seven/
-- JWT Token기반 인증/인가 예제 - https://intro-kor.msaez.io/development/oauth2with-keycloak/
+### References:
+- <a href="https://www.msaschool.io/operation/design/design-seven/" target="_blank">마이크로서비스 보안 설계</a>
+- <a href="https://intro-kor.msaez.io/development/oauth2with-keycloak/" target="_blank">JWT Token기반 인증/인가 예제</a>

@@ -58,13 +58,12 @@
 
 > **요약:** 전환 후 운영 최적화 단계에서는 성능 모니터링, 피드백 수집 및 반영, 기술 및 프로세스 업데이트, 그리고 보안 정책 강화를 통해 시스템과 운영의 지속적인 개선을 추구합니다. 이 단계는 전환된 시스템의 효율성을 극대화하고 비즈니스 가치를 지속적으로 증가시키기 위해 필수적입니다. 조직은 이를 통해 민첩성을 유지하고, 시장 변화에 빠르게 대응하며, 혁신적인 솔루션을 지속적으로 제공할 수 있습니다.
 
-### References :
-- 마이크로서비스 구현 패턴(Microservices Implementation pattern) - https://www.msaschool.io/operation/planning/avatar-patten/
-- Request/ Response 방식의 서비스 연계 - https://www.msaschool.io/operation/planning/avatar-patten/
-- Publish/ Subscribe 방식의 서비스 연계 - https://intro-kor.msaez.io/development/pub-sub/
-- 프론트-엔드 설계 - https://www.msaschool.io/operation/design/design-eight/  
-- Orchestration SAGA 기반 마이크로서비스 호출 - https://intro-kor.msaez.io/development/choreography-saga/
-- MSA 성숙도 레벨에 따른 구현 관점별 적용 모델 - https://www.msaschool.io/operation/planning/planning/
-- 단위 마이크로서비스 테스트 자동화 - https://intro-kor.msaez.io/custom-template/unit-test/
-
+### References:
+- <a href="https://www.msaschool.io/operation/planning/avatar-patten/" target="_blank">마이크로서비스 구현 패턴(Microservices Implementation pattern)</a>
+- <a href="https://www.msaschool.io/operation/planning/avatar-patten/" target="_blank">Request/ Response 방식의 서비스 연계</a>
+- <a href="https://intro-kor.msaez.io/development/pub-sub/" target="_blank">Publish/ Subscribe 방식의 서비스 연계</a>
+- <a href="https://www.msaschool.io/operation/design/design-eight/" target="_blank">프론트-엔드 설계</a>
+- <a href="https://intro-kor.msaez.io/development/choreography-saga/" target="_blank">Orchestration SAGA 기반 마이크로서비스 호출</a>
+- <a href="https://www.msaschool.io/operation/planning/planning/" target="_blank">MSA 성숙도 레벨에 따른 구현 관점별 적용 모델</a>
+- <a href="https://intro-kor.msaez.io/custom-template/unit-test/" target="_blank">단위 마이크로서비스 테스트 자동화</a>
 

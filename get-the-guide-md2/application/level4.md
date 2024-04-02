@@ -50,11 +50,11 @@
 
 > **요약 :** 전환 후 운영 최적화 단계에서는 모니터링 및 로깅, 자동 스케일링 및 리소스 최적화, 지속적인 배포와 인프라스트럭처 자동화, 그리고 보안 강화 및 규정 준수를 통해 시스템의 안정성, 성능, 그리고 보안을 지속적으로 관리하고 개선합니다. 이 단계는 새로운 아키텍처로의 전환 이후에도 시스템이 비즈니스 목표와 사용자의 요구를 충족시키도록 지원합니다.
 
-### References : 
-- 이벤트스토밍, 서비스 디컴포지션 (Service Decomposition) - https://www.msaschool.io/operation/design/design-three/
-- 이벤트스토밍 HowTo - https://intro-kor.msaez.io/business/
-- 애플리케이션 아키텍처 설계 - https://www.msaschool.io/operation/design/design-five/    
-- 프론트-엔드 설계 - https://www.msaschool.io/operation/design/design-eight/      
-- 게이트웨이(Gateway)를 통한 애플리케이션 창구 단일화 - https://www.msaschool.io/operation/implementation/implementation-six/
-- 이벤트기반 메시지 채널, 카프카(Kafka) 활용 - https://www.msaschool.io/operation/implementation/implementation-seven/
-- MSA 성숙도 모델에 따른 구현 관점별 적용 레벨 - https://www.msaschool.io/operation/planning/planning/
+### References:
+- <a href="https://www.msaschool.io/operation/design/design-three/" target="_blank">이벤트스토밍, 서비스 디컴포지션 (Service Decomposition)</a>
+- <a href="https://intro-kor.msaez.io/business/" target="_blank">이벤트스토밍 HowTo</a>
+- <a href="https://www.msaschool.io/operation/design/design-five/" target="_blank">애플리케이션 아키텍처 설계</a>
+- <a href="https://www.msaschool.io/operation/design/design-eight/" target="_blank">프론트-엔드 설계</a>
+- <a href="https://www.msaschool.io/operation/implementation/implementation-six/" target="_blank">게이트웨이(Gateway)를 통한 애플리케이션 창구 단일화</a>
+- <a href="https://www.msaschool.io/operation/implementation/implementation-seven/" target="_blank">이벤트기반 메시지 채널, 카프카(Kafka) 활용</a>
+- <a href="https://www.msaschool.io/operation/planning/planning/" target="_blank">MSA 성숙도 모델에 따른 구현 관점별 적용 레벨</a>

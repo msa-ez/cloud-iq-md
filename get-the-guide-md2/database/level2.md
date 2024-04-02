@@ -46,7 +46,7 @@
 > **요약 :** 전환 후 운영 최적화 단계에서는 시스템의 성능 모니터링, 데이터 관리 자동화, 그리고 데이터 스키마의 변경 관리를 통해 시스템의 안정적인 운영과 데이터의 일관성을 지속적으로 관리 및 개선합니다. 이 단계는 새로운 DB 아키텍처가 도입된 후에도 시스템의 성능과 데이터 무결성을 유지하기 위한 중요한 활동을 포함합니다. 체계적인 모니터링과 자동화 도구의 적용을 통해, 운영 효율성을 높이고, 장기적인 시스템 관리에 필요한 자원을 최소화합니다.
 
 ### References:
-- <a href="https://www.msaschool.io/operation/integration/integration-four/" target="_blank">분산 환경에서의 최종 일관성(Eventual Transaction) 유지()</a><div><a href="https://www.msaschool.io/operation/integration/integration-four/" target="_blank">분산 환경에서의 최종 일관성(Eventual Transaction) 유지(https://www.msaschool.io/operation/integration/integration-four/)</a></div>
+- <a href="https://www.msaschool.io/operation/integration/integration-four/" target="_blank">분산 환경에서의 최종 일관성(Eventual Transaction) 유지(https://www.msaschool.io/operation/integration/integration-four/)</a>
 - <a href="https://www.msaschool.io/operation/integration/integration-five/" target="_blank">MSA 환경에서의 데이터 프로젝션(Data Projection) 기법</a>
 - <a href="https://www.msaschool.io/operation/integration/integration-one/" target="_blank">Front-end에서의 데이터 통합</a>
 - <a href="https://www.msaschool.io/operation/integration/integration-two/" target="_blank">동기 호출(Request/Response Communication)에 의한 데이터 통합</a>

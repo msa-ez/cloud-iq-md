@@ -48,11 +48,11 @@
 
 > **요약 :** 전환 후 운영 최적화 단계에서는 시스템의 성능 모니터링 및 최적화, 데이터 일관성 및 무결성 관리, 운영 프로세스의 자동화 및 인프라 관리, 그리고 보안 강화 및 규정 준수를 통해 새로운 아키텍처에서의 안정적이고 효율적인 운영을 지원합니다. 이 단계는 시스템의 지속 가능한 성장과 변화에 유연하게 대응할 수 있는 기반을 마련합니다.
 
-### References :
-- 분산 환경에서의 최종 일관성(Eventual Transaction) 유지 - https://www.msaschool.io/operation/integration/integration-four/
-- MSA 환경에서의 데이터 프로젝션(Data Projection) 기법 - https://www.msaschool.io/operation/integration/integration-five/
-- Front-end에서의 데이터 통합 - https://www.msaschool.io/operation/integration/integration-one/
-- 동기 호출(Request/Response Communication)에 의한 데이터 통합 - https://www.msaschool.io/operation/integration/integration-two/
-- 이벤트 소싱(Event Sourcing) 기반 데이터 통합 - https://www.msaschool.io/operation/integration/integration-three/
-- 커맨트 모델과 쿼리 모델의 분리(CQRS) - https://www.msaschool.io/operation/integration/integration-six/
-- CQRS 데이터 프로잭션 - https://intro-kor.msaez.io/development/dp-cqrs/
+### References:
+- [분산 환경에서의 최종 일관성(Eventual Transaction) 유지](https://www.msaschool.io/operation/integration/integration-four/){:target="_blank"}
+- [MSA 환경에서의 데이터 프로젝션(Data Projection) 기법](https://www.msaschool.io/operation/integration/integration-five/){:target="_blank"}
+- [Front-end에서의 데이터 통합](https://www.msaschool.io/operation/integration/integration-one/){:target="_blank"}
+- [동기 호출(Request/Response Communication)에 의한 데이터 통합](https://www.msaschool.io/operation/integration/integration-two/){:target="_blank"}
+- [이벤트 소싱(Event Sourcing) 기반 데이터 통합](https://www.msaschool.io/operation/integration/integration-three/){:target="_blank"}
+- [커맨드 모델과 쿼리 모델의 분리(CQRS)](https://www.msaschool.io/operation/integration/integration-six/){:target="_blank"}
+- [CQRS 데이터 프로젝션](https://intro-kor.msaez.io/development/dp-cqrs/){:target="_blank"}

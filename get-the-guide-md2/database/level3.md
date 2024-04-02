@@ -39,11 +39,11 @@
 
 > **요약 :** 마이그레이션 단계에서는 각 마이크로서비스에 맞춰 데이터베이스를 구축하고, 기존 데이터를 새 시스템으로 이전합니다. 이 과정에는 데이터베이스 구축, 데이터 이전, 서비스 간 데이터 동기화 검증, 성능 최적화 및 보안 설정 검토가 포함됩니다. 전체 시스템의 통합 테스트를 통해 새로운 DB 아키텍처의 효율성과 안정성을 확보하는 것이 핵심입니다.
 
-### References :
-- 분산 환경에서의 최종 일관성(Eventual Transaction) 유지 - https://www.msaschool.io/operation/integration/integration-four/
-- MSA 환경에서의 데이터 프로젝션(Data Projection) 기법 - https://www.msaschool.io/operation/integration/integration-five/
-- Front-end에서의 데이터 통합 - https://www.msaschool.io/operation/integration/integration-one/
-- 동기 호출(Request/Response Communication)에 의한 데이터 통합 - https://www.msaschool.io/operation/integration/integration-two/
-- 이벤트 소싱(Event Sourcing) 기반 데이터 통합 - https://www.msaschool.io/operation/integration/integration-three/
-- 커맨트 모델과 쿼리 모델의 분리(CQRS) - https://www.msaschool.io/operation/integration/integration-six/
-- CQRS 데이터 프로잭션 - https://intro-kor.msaez.io/development/dp-cqrs/
+### References:
+- [분산 환경에서의 최종 일관성(Eventual Transaction) 유지](https://www.msaschool.io/operation/integration/integration-four/){:target="_blank"}
+- [MSA 환경에서의 데이터 프로젝션(Data Projection) 기법](https://www.msaschool.io/operation/integration/integration-five/){:target="_blank"}
+- [Front-end에서의 데이터 통합](https://www.msaschool.io/operation/integration/integration-one/){:target="_blank"}
+- [동기 호출(Request/Response Communication)에 의한 데이터 통합](https://www.msaschool.io/operation/integration/integration-two/){:target="_blank"}
+- [이벤트 소싱(Event Sourcing) 기반 데이터 통합](https://www.msaschool.io/operation/integration/integration-three/){:target="_blank"}
+- [커맨드 모델과 쿼리 모델의 분리(CQRS)](https://www.msaschool.io/operation/integration/integration-six/){:target="_blank"}
+- [CQRS 데이터 프로젝션](https://intro-kor.msaez.io/development/dp-cqrs/){:target="_blank"}
